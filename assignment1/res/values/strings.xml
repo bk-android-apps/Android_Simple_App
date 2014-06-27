@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Andoroid Simple App</string>
+    <string name="button1_label">Open SJSU Home Page</string>
+    <string name="button2_label">Done</string>
+    <string name="message1">SJSU button has been clicked</string>
+    <string name="message2">click on SJSU button</string>
+    <string name="ok">OK</string>
+ 
+</resources>
